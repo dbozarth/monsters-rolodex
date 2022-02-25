@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/monters-rolodex/static/css/main.cd58ab44.css",
+    "main.js": "/monters-rolodex/static/js/main.723d17d8.js",
+    "index.html": "/monters-rolodex/index.html",
+    "main.cd58ab44.css.map": "/monters-rolodex/static/css/main.cd58ab44.css.map",
+    "main.723d17d8.js.map": "/monters-rolodex/static/js/main.723d17d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd58ab44.css",
+    "static/js/main.723d17d8.js"
+  ]
+}
